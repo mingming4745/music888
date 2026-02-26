@@ -17,4 +17,4 @@ fallthrough = true
 
 [assets]
 directory = "./dist"        # 指向 Vite 构建输出的目录
-binding = "ASSETS"          # (可选) 如果你的 src/index.ts 需要读取这些静态文件，需要绑定变量
+#binding = "ASSETS"          # (可选) 如果你的 src/index.ts 需要读取这些静态文件，需要绑定变量
